@@ -215,7 +215,7 @@ Response:
     "id": "", // The ID of the channel
     "name": "", // The name of the channel
     "nextpage": "", // A JSON encoded page, which is used for the nextpage endpoint.
-    "relatedStreams: [
+    "relatedStreams": [
         {
             "duration": 0, // The duration of the channel's video in seconds
             "thumbnail": "https://pipedproxy-bom.kavin.rocks/vi/...", // The thumbnail of the channel's video
@@ -245,7 +245,7 @@ Response:
 ```javascript
 {
     "nextpage": "", // A JSON encoded page, which is used for the nextpage endpoint.
-    "relatedStreams: [
+    "relatedStreams": [
         {
             "duration": 0, // The duration of the channel's video in seconds
             "thumbnail": "https://pipedproxy-bom.kavin.rocks/vi/...", // The thumbnail of the channel's video
@@ -274,7 +274,7 @@ Response:
     "bannerUrl": "https://pipedproxy-bom.kavin.rocks/...", // The banner of the playlist
     "name": "", // The name of the playlist
     "nextpage": "", // A JSON encoded page, which is used for the nextpage endpoint.
-    "relatedStreams: [
+    "relatedStreams": [
         {
             "duration": 0, // The duration of the playlist's video in seconds
             "thumbnail": "https://pipedproxy-bom.kavin.rocks/vi/...", // The thumbnail of the playlist's video
@@ -307,7 +307,7 @@ Response:
 ```javascript
 {
     "nextpage": "", // A JSON encoded page, which is used for the nextpage endpoint.
-    "relatedStreams: [
+    "relatedStreams": [
         {
             "duration": 0, // The duration of the playlist's video in seconds
             "thumbnail": "https://pipedproxy-bom.kavin.rocks/vi/...", // The thumbnail of the playlist's video
